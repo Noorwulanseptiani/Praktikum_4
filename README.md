@@ -23,7 +23,7 @@ Untuk perintahnya bisa menggunkan perintah seperti ini :
 
 Dan hasilnya akan seperti ini :
 
-![image](https://github.com/Heryantokurnia/Praktikum-4/assets/141998024/4e580583-3bb5-4b86-84bd-dce0ff01e338)
+![wulan](https://github.com/Noorwulanseptiani/Praktikum_4/assets/170961002/faa3ee4c-8079-4861-992a-c6533f04c308)
 
 ### 2.	Tampilkan pegawai yang tunjangannya NULL!
 
@@ -35,7 +35,7 @@ Untuk perintahnya bisa menggunkan perintah seperti ini :
 
 Dan hasilnya akan seperti ini :
 
-![image](https://github.com/Heryantokurnia/Praktikum-4/assets/141998024/16950ed6-2d1c-4333-bd8b-3960bf6aa8cf)
+![wulan2](https://github.com/Noorwulanseptiani/Praktikum_4/assets/170961002/24d5e10b-1340-4e94-a7fb-80653aca9a9f)
 
 ### 3.	Tampilkan pegawai yang tunjangannya tidak NULL!
 
@@ -47,11 +47,11 @@ Untuk perintahnya bisa menggunkan perintah seperti ini :
 
 Dan hasilnya akan seperti ini :
 
-![image](https://github.com/Heryantokurnia/Praktikum-4/assets/141998024/0ffebe47-b6ec-468d-8228-1b373a62372a)
+![wulan3](https://github.com/Noorwulanseptiani/Praktikum_4/assets/170961002/e59f8d5e-542f-49b9-8904-fefa14317e12)
 
 ## HASIL DARI 1 - 3
 
-![image](https://github.com/Heryantokurnia/Praktikum-4/assets/141998024/06839f76-6c14-485a-b482-7daad459ad16)
+![wulan4](https://github.com/Noorwulanseptiani/Praktikum_4/assets/170961002/ed702d22-a4a2-46ca-9d84-81812fad9563)
 
 ### 4.	Tampilkan/hitung jumlah baris/record tabel pegawai!
 
@@ -63,7 +63,7 @@ Untuk perintahnya bisa menggunkan perintah seperti ini :
 
 Dan hasilnya akan seperti ini :
 
-![image](https://github.com/Heryantokurnia/Praktikum-4/assets/141998024/c5c0da82-9f04-44af-88af-2f9572bd8b4d)
+![wulan5](https://github.com/Noorwulanseptiani/Praktikum_4/assets/170961002/0ecdb760-aa30-410f-8a50-01c2699a6b53)
 
 ### 5.	Tampilkan/hitung jumlah total gaji di tabel pegawai!
 
@@ -76,7 +76,7 @@ Untuk perintahnya bisa menggunkan perintah seperti ini :
 
 Dan hasilnya akan seperti ini :
 
-![image](https://github.com/Heryantokurnia/Praktikum-4/assets/141998024/3d86721b-8c25-4dcb-bae3-341e658f30f6)
+![wulan6](https://github.com/Noorwulanseptiani/Praktikum_4/assets/170961002/afe95447-6ab8-4fbe-8d3f-282d1ca3bede)
 
 ### 6.	Tampilkan/hitung rata-rata gaji pegawai!
 
@@ -88,7 +88,7 @@ Untuk perintahnya bisa menggunkan perintah seperti ini :
 
 Dan hasilnya akan seperti ini :
 
-![image](https://github.com/Heryantokurnia/Praktikum-4/assets/141998024/5b9375f1-df3d-4fab-b0b1-f33300d77fc1)
+![wulan7](https://github.com/Noorwulanseptiani/Praktikum_4/assets/170961002/381491e0-758a-43d6-9878-3490b0e84e23)
 
 ### 7.	Tampilkan gaji terkecil!
 
@@ -100,7 +100,7 @@ Untuk perintahnya bisa menggunkan perintah seperti ini :
 
 Dan hasilnya akan seperti ini :
 
-![image](https://github.com/Heryantokurnia/Praktikum-4/assets/141998024/d3b917e8-7005-49e3-8ce9-a2015ec1a941)
+![wulan8](https://github.com/Noorwulanseptiani/Praktikum_4/assets/170961002/d318a907-ff31-4f88-8871-abd3d68d8c2c)
 
 ### 8.	Tampilkan gaji terbesar!
 
@@ -112,7 +112,7 @@ Untuk perintahnya bisa menggunkan perintah seperti ini :
 
 Dan hasilnya akan seperti ini :
 
-![image](https://github.com/Heryantokurnia/Praktikum-4/assets/141998024/884ddeb8-5530-496d-ad03-43c5b2b60cae)
+![wulan9](https://github.com/Noorwulanseptiani/Praktikum_4/assets/170961002/14ff088a-601c-4a84-bcc0-5c854057ecf8)
 
 ## TUGAS PRAKTIKUM 4 (TABEL HEWAN)
 1.	Tampilkan jumlah hewan yang dimiliki setiap owner
@@ -134,7 +134,7 @@ Untuk perintahnya bisa menggunkan perintah seperti ini :
 
 Dan hasilnya akan seperti ini :
 
-![image](https://github.com/Heryantokurnia/Praktikum-4/assets/141998024/c2f79225-7d45-4015-b21c-53789b8a403e)
+![wulan10](https://github.com/Noorwulanseptiani/Praktikum_4/assets/170961002/f0b4ad95-4a3f-4fc4-bae4-223da5c1ca7e)
 
 ### 2.	Tampilkan jumlah hewan berdasarkan spesies
 
@@ -146,7 +146,7 @@ Untuk perintahnya bisa menggunkan perintah seperti ini :
 
 Dan hasilnya akan seperti ini :
 
-![image](https://github.com/Heryantokurnia/Praktikum-4/assets/141998024/c7577f83-33aa-4bd2-85fc-f1353e0c1f63)
+![wulan11](https://github.com/Noorwulanseptiani/Praktikum_4/assets/170961002/f013f38f-df16-45ad-9592-35c4ce0784eb)
 
 ### 3.	Tampilkan jumlah hewan berdasarkan jenis kelamin
 
@@ -158,7 +158,7 @@ Untuk perintahnya bisa menggunkan perintah seperti ini :
 
 Dan hasilnya akan seperti ini :
 
-![image](https://github.com/Heryantokurnia/Praktikum-4/assets/141998024/2dba9be5-ee55-4bf0-b742-b4231492f3d0)
+![wulan12](https://github.com/Noorwulanseptiani/Praktikum_4/assets/170961002/5c27035a-c9ca-4691-9404-44d2c81f6f11)
 
 ### 4.	Tampilkan jumlah hewan berdasarkan spesies dan jenis kelamin
 
@@ -170,7 +170,7 @@ Untuk perintahnya bisa menggunkan perintah seperti ini :
 
 Dan hasilnya akan seperti ini :
 
-![sex and species](https://github.com/Heryantokurnia/Praktikum-4/assets/141998024/10627e1b-3f61-418f-8c6d-251791f97b28)
+![wulan13](https://github.com/Noorwulanseptiani/Praktikum_4/assets/170961002/1e6e4bba-3f0b-43a1-a025-2a4cb4db447f)
 
 ### 5.	Tampilkan jumlah hewan berdasarkan spesis (cat dan dog saja) dan jenis kelamin
 
@@ -182,7 +182,7 @@ Untuk perintahnya bisa menggunkan perintah seperti ini :
 
 Dan hasilnya akan seperti ini :
 
-![image](https://github.com/Heryantokurnia/Praktikum-4/assets/141998024/2c3dc657-a23a-4053-befe-1e91a888b8cc)
+![wulan14](https://github.com/Noorwulanseptiani/Praktikum_4/assets/170961002/30f3b141-9e74-4b30-8123-d857f24aaac7)
 
 ### 6.	Tampilkan jumlah hewan berdasarkan jenis kelamin yang diketahui saja
 
@@ -194,4 +194,4 @@ Untuk perintahnya bisa menggunkan perintah seperti ini :
 
 Dan hasilnya akan seperti ini :
 
-![image](https://github.com/Heryantokurnia/Praktikum-4/assets/141998024/e1ccaba2-de53-4839-8ee6-be25e869a72d)
+![wulan15](https://github.com/Noorwulanseptiani/Praktikum_4/assets/170961002/3237c513-b9c8-4471-9d42-c5aa832369d8)
